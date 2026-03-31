@@ -33,10 +33,10 @@ Each repository has its own setup instructions in its README. Generally:
 git clone https://github.com/Simple-Irc-Client/<repo>.git
 
 # Install dependencies
-npm install
+pnpm install
 
 # Start development
-npm start
+pnpm start
 ```
 
 ## Code Style
